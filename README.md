@@ -1,4 +1,5 @@
 # Git-Hello-World
-Learning Git
-learning what a branch does and how to create them
-Learning what a commit is and how to update this readme to reflect branch changes.
+Learning Git. Still.
+Going thru the tut.  Again.
+I'm sure it's something stupid simple.
+how do I know the url to share?
